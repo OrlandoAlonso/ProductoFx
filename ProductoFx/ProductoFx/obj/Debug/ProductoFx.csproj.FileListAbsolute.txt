@@ -1,0 +1,14 @@
+D:\source\repos\ProductoFx\ProductoFx\bin\Debug\ProductoFx.exe.config
+D:\source\repos\ProductoFx\ProductoFx\bin\Debug\ProductoFx.exe
+D:\source\repos\ProductoFx\ProductoFx\bin\Debug\ProductoFx.pdb
+D:\source\repos\ProductoFx\ProductoFx\obj\Debug\ProductoFx.csprojAssemblyReference.cache
+D:\source\repos\ProductoFx\ProductoFx\obj\Debug\ProductoFx.Properties.Resources.resources
+D:\source\repos\ProductoFx\ProductoFx\obj\Debug\ProductoFx.csproj.GenerateResource.cache
+D:\source\repos\ProductoFx\ProductoFx\obj\Debug\ProductoFx.csproj.CoreCompileInputs.cache
+D:\source\repos\ProductoFx\ProductoFx\obj\Debug\ProductoFx.exe
+D:\source\repos\ProductoFx\ProductoFx\obj\Debug\ProductoFx.pdb
+D:\source\repos\ProductoFx\ProductoFx\obj\Debug\ProductoFx.CatalogoProducto.resources
+D:\source\repos\ProductoFx\ProductoFx\obj\Debug\ProductoFx.ProductoFrm.resources
+D:\source\repos\ProductoFx\ProductoFx\obj\Debug\ProductoFx.MainFrm.resources
+D:\source\repos\ProductoFx\ProductoFx\obj\Debug\ProductoFx.FrmViewProducto.resources
+D:\source\repos\ProductoFx\ProductoFx\obj\Debug\ProductoFx.UsingControl.ControlProducto.resources
